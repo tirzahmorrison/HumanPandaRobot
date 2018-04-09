@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanPandaRobot", "HumanPandaRobot\HumanPandaRobot.csproj", "{4FB4BE34-E747-493A-9625-8382C1D8A5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB4BE34-E747-493A-9625-8382C1D8A5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB4BE34-E747-493A-9625-8382C1D8A5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB4BE34-E747-493A-9625-8382C1D8A5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB4BE34-E747-493A-9625-8382C1D8A5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA7CB5A6-0F3F-4271-869E-B8F0F6FD4821}
+	EndGlobalSection
+EndGlobal
